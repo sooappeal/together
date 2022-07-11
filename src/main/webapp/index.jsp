@@ -9,6 +9,7 @@
 <body>
 	<h1>Together</h1>
 	<a href=" <%=request.getContextPath()%>/helloworld">helloworld</a>
+	<a href=" <%=request.getContextPath()%>/sooappeal">sooappeal</a>
 </body>
 </html>
 
